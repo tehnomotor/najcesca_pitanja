@@ -14,3 +14,6 @@ Za kupovinu po maloprodajnim cenama nije obavezno registrovati se na sajtu.
 
 Kako da otkažem porudžbinu?
 Porudžbinu je najlakše otkazati pozivom na neki od naših brojeva telefona.
+
+Da li je porez uključen u cenu koju vidimo na sajtu?
+Porez je uključen u maloprodajnu cenu dok je za kupce u veleprodaji cena prikazana bez PDV i rabata.
