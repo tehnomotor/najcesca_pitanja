@@ -16,7 +16,7 @@ Kako da otkažem porudžbinu?
 Porudžbinu je najlakše otkazati pozivom na neki od naših brojeva telefona.
 
 Da li je porez uključen u cenu koju vidimo na sajtu?
-Porez je uključen u maloprodajnu cenu dok je za kupce u veleprodaji cena prikazana bez PDV i rabata.
+Porez je uključen u maloprodajnu cenu dok je za kupce u veleprodaji cena prikazana sa PDV i bez rabata.
 
 Do koliko sati da poručim da bi roba bila sledeci dan na mojoj adresi?
 Molimo vas da robu poručite do 14 sati kako bi roba bila upućena ka vama istog dana. Za porudžbine posle 14 sati ne možemo garantovati da će biti upućena na vašu adresu istog dana.
