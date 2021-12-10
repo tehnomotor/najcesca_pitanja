@@ -1,2 +1,2 @@
 # najcesca_pitanja
-Najčečće postavljana pitanja
+Najčešće postavljana pitanja
